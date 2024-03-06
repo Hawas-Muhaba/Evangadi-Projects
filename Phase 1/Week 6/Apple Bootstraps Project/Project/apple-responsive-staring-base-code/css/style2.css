@@ -1,0 +1,109 @@
+a {
+  padding: 0px;
+}
+ul {
+  padding: 0px;
+  list-style: none;
+}
+.ax a {
+  color: white;
+  justify-content: space-between;
+}
+.ax a:hover {
+  color: darkgray;
+}
+#globalnav .globalnav-list {
+  cursor: default;
+  margin: 0 -8px;
+  width: auto;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  -webkit-user-select: none;
+  user-select: none;
+  list-style: none;
+}
+.nav-item {
+  text-align: left !important;
+  padding: 4px 0px;
+  border-bottom: 1px solid #4b4b4b;
+}
+
+.link li {
+  text-decoration: none;
+  list-style: none;
+}
+footer a {
+  color: darkgray;
+}
+.iPhonePro {
+  padding-top: 25px;
+  background-image: url("../images/home/iphone11-pro-bg.jpg");
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  height: 600px; /* Set the height to 100% of the viewport */
+  margin: 0; /* Remove default margin */
+}
+.bgImage2 {
+  padding-top: 25px;
+  background-image: url("../images/home/iphone11-bg.jpg");
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  height: 600px; /* Set the height to 100% of the viewport */
+  margin: 0; /* Remove default margin */
+}
+.watch {
+  padding-top: 25px;
+  background-image: url("../images/home/watch-series-5.jpg");
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  height: 600px;
+  margin: 0; /* Remove default margin */
+}
+.cards {
+  padding-top: 25px;
+  background-image: url("../images/home/apple-card.jpg");
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  /* Set the height to 100% of the viewport */
+  margin: 0; /* Remove default margin */
+}
+
+.tv {
+  padding-top: 25px;
+  background-image: url("../images/home/apple-tv-background.jpg");
+  background-size: cover; /* Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  height: 600px; /* Set the height to 100% of the viewport */
+  margin: 0; /* Remove default margin */
+}
+.airpodPro {
+  padding-top: 25px;
+  background-color: black;
+}
+.iPad {
+  padding-top: 25px;
+  background-image: url("../images/home/new-ipad.jpg");
+  /* background-size: cover; Cover the entire viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  height: 600px; /* Set the height to 100% of the viewport */
+  margin: 0; /* Remove default margin */
+}
+.macProLaptop {
+  padding-top: 75px;
+  background-image: url("../images/home/macbook-pro.jpg");
+  /* background-size: cover; Cover the entire viewport */
+  background-position: bottom; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  height: 600px; /* Set the height to 100% of the viewport */
+  margin: 0; /* Remove default margin */
+}
+.row {
+  gap: 63;
+}
