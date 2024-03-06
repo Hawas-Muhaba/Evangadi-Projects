@@ -1,0 +1,38 @@
+.backgroundChange {
+  padding: 20px;
+  display: flex;
+  cursor: pointer;
+}
+#yesBackground, #noBackground {
+  padding: 10px;
+  border: 1px solid;
+  margin-left: 20px;
+}
+#techCompanies {
+  max-width: 400px;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+ul li {
+  padding: 10px;
+  border-bottom: 1px solid;
+}
+.blue {
+  background-color: #79a8ff;
+}
+.reds {
+  background-color: #ff5151;
+  border: #ff5151 2px solid;
+  color: black;
+}
+.greens{
+  background-color: green;
+}
+.adder{
+  text-align: center;
+}
+.hidden{
+  display: none;
+}
